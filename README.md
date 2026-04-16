@@ -7,11 +7,18 @@ The solution is designed to help financial institutions monitor loan distributio
 
 # 🎯 Objectives
 Analyze loan application trends and funding patterns
+
 Monitor repayment performance and cash flow
+
 Identify good vs bad loans
+
 Understand borrower characteristics (income, employment, home ownership)
+
 Provide a detailed and interactive reporting system
-🛠️ Skills & Tools Used
+
+# 🛠️ Skills & Tools Used
 SQL – Data extraction, transformation, and querying
+
 Power BI – Dashboard creation and data visualization
+
 DAX (Data Analysis Expressions) – KPI calculations and advanced metrics
